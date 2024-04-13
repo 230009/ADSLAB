@@ -8,6 +8,7 @@ public class task6 {
         System.out.println(power(a, n));
 
     }
+
     public static int power(int a, int n){
         if (n == 0){
             //any number to the power of 0 is 1
